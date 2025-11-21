@@ -2,7 +2,7 @@
 
 ## Indice
 
-- [Integrantes](#integrantes)
+- [Integrante](#integrante)
 - [Despliegue](#despliegue)
 - [Requisitos Previos](#requisitos-previos)
 - [Pasos para Desplegar](#pasos-para-desplegar)
